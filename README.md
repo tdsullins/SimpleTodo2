@@ -33,9 +33,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app. 
-During the process I had a few issues with my emulator. I think it maybe my storage on maybe too full to activiate the emulator. 
-Also, while the following each step of the program there were a few errors that took time for to understand. This is because some things 
-in the video were different from what was shown on my system.  
+During the process I had a few issues with my emulator. I think that the storage on my MacBook is too full to run the emulator properly. 
+Also, while following each step of the program there were a few errors that took time for me to understand. This is because some of the step in the video were different from what was shown in my system.  
 
 ## License
 
